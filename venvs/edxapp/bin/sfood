@@ -1,0 +1,7 @@
+#!/edx/app/edxapp/venvs/edxapp/bin/python
+# This file is part of the snakefood package.  
+# See http://furius.ca/snakefood for license and details.
+
+from snakefood.gendeps import main
+main()
+
